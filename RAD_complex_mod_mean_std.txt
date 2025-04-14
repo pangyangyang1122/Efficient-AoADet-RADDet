@@ -1,0 +1,4 @@
+RAD_complex_mod_mean_std.txt
+global max  magnitude: 8500136.0
+global min  magnitude: 0.01788690872490406
+
